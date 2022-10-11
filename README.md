@@ -7,3 +7,4 @@
 - remoting
 - did something
 - local change
+- test pull
